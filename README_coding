@@ -1,0 +1,1 @@
+In this code, i fixed Net method. Removed the Relu in the last year which gave me accuracy of 98% .. Earler it was <30%
